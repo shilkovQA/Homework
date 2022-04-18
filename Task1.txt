@@ -13,7 +13,7 @@ mkdir Java Phython CC+
 cd Java
 6) Создать 5 файлов (3 txt, 2 json)
 touch odin.txt dva.txt tri.txt four.json five.json
-7) Создать 3 папки
+7) Создать 3 папки 
 mkdir 1/  2/  3/ 
 8. Вывести список содержимого папки
 ls
